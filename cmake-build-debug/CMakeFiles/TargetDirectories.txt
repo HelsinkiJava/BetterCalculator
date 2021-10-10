@@ -1,0 +1,3 @@
+G:/CProjects/BetterCalculator/cmake-build-debug/CMakeFiles/BetterCalculator.dir
+G:/CProjects/BetterCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/CProjects/BetterCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
